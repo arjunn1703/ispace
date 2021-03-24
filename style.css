@@ -290,6 +290,10 @@ footer p {
 
 /* xs breakpoint */
 @media only screen and (max-width: 576px) {
+  .container {
+    width: 100%;
+    margin: 0;
+  }
   nav {
     width: 100%;
   }
